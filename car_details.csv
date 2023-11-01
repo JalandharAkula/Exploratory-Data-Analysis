@@ -1,0 +1,295 @@
+,Car_Brand,Car_Model,Manufacturing_Year,Original_Price,Selling_price,Delivery_type,Page no
+0,Chevrolet,Camaro 2SS,2023,0,0,Home Delivery,1
+1,Porsche,Cayenne S Platinum Edition,2023,"133,810","$133,810",Home Delivery,1
+2,BMW,430 Gran Coupe i xDrive,2023,"54,295","$54,295",Not Deliverable,1
+3,BMW,X3 xDrive30i,2022,"50,720","$50,720",Not Deliverable,1
+4,BMW,760 760i xDrive,2023,"117,945","$117,945",Not Deliverable,1
+5,BMW,760 760i xDrive,2023,"127,495","$127,495",Not Deliverable,1
+6,BMW,i4 Gran Coupe M50,2023,"71,945","$71,945",Not Deliverable,1
+7,BMW,430 Gran Coupe i xDrive,2023,"50,895","$50,895",Not Deliverable,1
+8,BMW,430 Gran Coupe i xDrive,2023,"55,770","$55,770",Not Deliverable,1
+9,Volkswagen,Arteon 2.0T SEL R-Line 4MOTION,2023,"46,156","$46,156",Home Delivery,1
+10,Audi,e-tron GT Premium Plus,2023,"111,215","$111,215",Home Delivery,1
+11,Audi,A8 L 55,2022,"97,345","$97,345",Home Delivery,1
+12,Audi,S4 3.0T Prestige,2023,"65,340","$65,340",Home Delivery,1
+13,Audi,SQ8 4.0T quattro Premium Plus,2023,"104,640","$104,640",Hot Car,1
+14,Genesis,G80 3.5T Sport,2023,14,14,Home Delivery,1
+15,INFINITI,QX55 LUXE,2023,"49,382","$49,382",Home Delivery,1
+16,RAM,1500 Limited,2022,16,16,Home Delivery,1
+17,Dodge,Durango GT,2022,17,17,Home Delivery,1
+18,Dodge,Durango R/T,2022,18,18,Home Delivery,1
+19,Dodge,Durango GT,2022,19,19,Home Delivery,1
+20,RAM,1500 Limited,2022,20,20,Home Delivery,1
+21,Chevrolet,Silverado 1500 RST,2023,21,21,Home Delivery,2
+22,Dodge,Challenger GT,2022,22,22,Home Delivery,2
+23,Toyota,4Runner TRD Sport,2023,"47,721","$47,721",Hot Car,2
+24,Toyota,4Runner Limited,2023,"52,501","$52,501",Not Deliverable,2
+25,Ford,Mustang GT Premium,2022,"55,950","$58,770",Home Delivery,2
+26,Ford,Mustang GT Premium,2022,"55,950","$58,770",Home Delivery,2
+27,Subaru,Impreza Sport,2023,"27,004","$27,004",Home Delivery,2
+28,Subaru,Impreza Sport,2023,"28,593","$28,593",Home Delivery,2
+29,Subaru,Impreza Premium,2023,"27,376","$27,376",Home Delivery,2
+30,Cadillac,XT6 Sport AWD,2022,30,30,Home Delivery,2
+31,Cadillac,XT6 Premium Luxury FWD,2023,31,31,Home Delivery,2
+32,Cadillac,XT6 Sport AWD,2023,32,32,Home Delivery,2
+33,RAM,1500 Limited,2022,33,33,Not Deliverable,2
+34,Jeep,Wagoneer Series III,2023,34,34,Not Deliverable,2
+35,Honda,Passport TrailSport,2023,"45,580","$45,580",Home Delivery,2
+36,Hyundai,Elantra SEL,2022,"23,780","$23,780",Home Delivery,2
+37,Jeep,Grand Cherokee Limited,2023,37,37,Not Deliverable,2
+38,Jeep,Wrangler Sport,2023,"39,985","$39,985",Not Deliverable,2
+39,Jeep,Grand Cherokee Summit,2023,39,39,Not Deliverable,2
+40,Subaru,Impreza Premium,2023,"27,606","$27,606",Hot Car,2
+41,Subaru,Impreza Premium,2023,"27,373","$27,373",Not Deliverable,2
+42,Jeep,Gladiator Overland,2022,"42,683","$42,683",Home Delivery,3
+43,Toyota,4Runner 40th Anniversary Special Edition,2023,"47,929","$47,929",Home Delivery,3
+44,Toyota,4Runner SR5,2023,"41,159","$41,159",Home Delivery,3
+45,Alfa,Romeo Giulia Veloce,2022,"49,315","$49,315",Home Delivery,3
+46,Alfa,Romeo Giulia Ti,2022,"44,490","$44,490",Home Delivery,3
+47,Ford,Mustang EcoBoost,2022,"37,595","$37,595",Home Delivery,3
+48,Ford,EcoSport Titanium,2022,"28,190","$29,690",Home Delivery,3
+49,Honda,Odyssey Sport,2023,"42,655","$42,655",Home Delivery,3
+50,Honda,Pilot TrailSport,2022,"46,105","$46,105",Home Delivery,3
+51,Lexus,ES 350 Luxury,2023,"51,960","$51,960",Hot Car,3
+52,Ford,Mustang EcoBoost Premium,2022,"50,580","$50,580",Not Deliverable,3
+53,Toyota,4Runner SR5,2023,"39,999","$39,999",Home Delivery,3
+54,Lexus,LS 500 F Sport,2022,"89,915","$89,915",Home Delivery,3
+55,Lexus,RX 350 Base,2022,"57,125","$57,125",Home Delivery,3
+56,BMW,430 Gran Coupe i xDrive,2023,"57,120","$57,120",Home Delivery,3
+57,BMW,X3 xDrive30i,2023,"52,225","$52,225",Hot Car,3
+58,INFINITI,Q50 LUXE,2023,"47,610","$47,610",Home Delivery,3
+59,Mitsubishi,Eclipse Cross SE,2023,59,59,Home Delivery,3
+60,Mercedes-Benz,GLA 250 Base 4MATIC,2023,"47,100","$47,100",Home Delivery,3
+61,Mercedes-Benz,GLA 250 Base 4MATIC,2023,"49,155","$49,155",Home Delivery,3
+62,Mercedes-Benz,S-Class S 580 4MATIC,2023,"139,280","$139,280",Home Delivery,3
+63,Chevrolet,Corvette Stingray w/2LT,2023,"107,710","$107,710",Hot Car,4
+64,Mercedes-Benz,S-Class S 500 4MATIC,2023,"138,120","$138,120",Home Delivery,4
+65,Mercedes-Benz,GLA 250 Base,2022,"40,615","$40,615",Home Delivery,4
+66,Lincoln,Navigator Standard,2022,"84,660","$84,660",Home Delivery,4
+67,Lincoln,Navigator Reserve,2022,"100,260","$100,260",Home Delivery,4
+68,Toyota,4Runner Limited,2023,"52,992","$52,992",Home Delivery,4
+69,Cadillac,XT6 Premium Luxury AWD,2023,"59,590","$59,590",Home Delivery,4
+70,Genesis,G80 2.5T,2023,"65,025","$65,025",Home Delivery,4
+71,Genesis,G80 2.5T,2023,"64,790","$64,790",Home Delivery,4
+72,Dodge,Durango Citadel,2022,72,72,Home Delivery,4
+73,Chevrolet,Traverse RS,2023,73,73,Home Delivery,4
+74,Chevrolet,Traverse Premier,2023,"49,880","$49,880",Home Delivery,4
+75,Genesis,G80 3.5T Sport,2023,"73,190","$73,190",Home Delivery,4
+76,Subaru,Impreza Sport,2023,"29,474","$29,474",Home Delivery,4
+77,GMC,Sierra 1500 Elevation,2022,"58,010","$58,010",Not Deliverable,4
+78,GMC,Sierra 2500 Denali,2023,"88,560","$88,560",Not Deliverable,4
+79,Cadillac,XT6 Premium Luxury AWD,2023,"64,740","$64,740",Not Deliverable,4
+80,Cadillac,XT6 Premium Luxury AWD,2023,"71,745","$71,745",Not Deliverable,4
+81,GMC,Sierra 2500 Denali,2023,"87,465","$87,465",Not Deliverable,4
+82,GMC,Sierra 2500 AT4,2023,"85,810","$85,810",Not Deliverable,4
+83,Porsche,Macan Base,2023,"70,980","$70,980",Home Delivery,4
+84,Mercedes-Benz,GLC 300 Base,2021,"54,730","$54,730",Home Delivery,5
+85,Dodge,Challenger R/T,2022,85,85,Home Delivery,5
+86,Dodge,Durango Citadel,2022,86,86,Home Delivery,5
+87,Jeep,Grand Cherokee Laredo,2023,87,87,Home Delivery,5
+88,Dodge,Challenger R/T Scat Pack,2022,88,88,Home Delivery,5
+89,Chevrolet,Camaro 2SS,2023,89,89,Home Delivery,5
+90,Chevrolet,Silverado 1500 RST,2023,90,90,Home Delivery,5
+91,Lexus,IS 350 F Sport,2023,"58,555","$58,555",Home Delivery,5
+92,Ford,Escape SE,2022,"28,688","$28,688",Home Delivery,5
+93,Ford,F-150 XL,2022,"49,947","$49,947",Home Delivery,5
+94,Ford,Escape S,2022,94,94,Home Delivery,5
+95,Ford,Explorer XLT,2022,"44,324","$44,324",Home Delivery,5
+96,Ford,Explorer XLT,2022,96,96,Home Delivery,5
+97,Ford,Escape SE,2022,97,97,Home Delivery,5
+98,Volvo,XC60 B5 Ultimate Dark Theme,2023,"64,435","$65,435",Home Delivery,5
+99,Subaru,Impreza Premium,2023,"26,628","$26,628",Home Delivery,5
+100,Honda,Ridgeline Black Edition,2023,100,100,Home Delivery,5
+101,BMW,430 Gran Coupe i xDrive,2023,"65,545","$65,545",Home Delivery,5
+102,Chevrolet,Silverado 1500 WT,2022,102,102,Home Delivery,5
+103,Porsche,Panamera 4 Platinum Edition,2023,"114,140","$114,140",Home Delivery,5
+104,Audi,e-tron GT Prestige,2022,"122,435","$122,435",Home Delivery,5
+105,Toyota,4Runner 40th Anniversary Special Edition,2023,"56,278","$56,278",Home Delivery,6
+106,Audi,e-tron GT Prestige,2022,"122,610","$122,260",Home Delivery,6
+107,Chevrolet,Silverado 2500 High Country,2022,"83,545","$83,545",Home Delivery,6
+108,Chevrolet,Silverado 2500 LTZ,2023,108,108,Home Delivery,6
+109,Ford,Mustang GT Premium,2022,109,109,Home Delivery,6
+110,RAM,1500 TRX,2022,"96,430","$96,430",Home Delivery,6
+111,RAM,1500 Laramie,2022,"54,060","$64,130",Home Delivery,6
+112,Chrysler,Pacifica Hybrid Limited,2023,112,112,Home Delivery,6
+113,Jeep,Grand Wagoneer Series II,2022,113,113,Home Delivery,6
+114,Acura,TLX A-Spec,2023,"47,995","$47,995",Home Delivery,6
+115,Dodge,Challenger R/T,2022,"43,955","$43,955",Not Deliverable,6
+116,RAM,2500 Big Horn,2022,"58,385","$58,385",Not Deliverable,6
+117,RAM,1500 Laramie,2022,"70,325","$70,325",Not Deliverable,6
+118,Toyota,4Runner TRD Off Road Premium,2023,"65,868","$65,868",Home Delivery,6
+119,Jaguar,F-TYPE P450 R-Dynamic,2023,"100,430","$100,430",Home Delivery,6
+120,Jaguar,F-TYPE R,2023,"118,270","$118,270",Home Delivery,6
+121,Mercedes-Benz,Sprinter 2500 144 WB,2022,121,121,Home Delivery,6
+122,GMC,Sierra 1500 Denali Ultimate,2022,122,122,Home Delivery,6
+123,Cadillac,CT4-V V-Series Blackwing,2022,"66,170","$66,170",Home Delivery,6
+124,Cadillac,CT4-V V-Series Blackwing,2022,"74,555","$74,555",Home Delivery,6
+125,INFINITI,Q60 3.0t Red Sport 400,2022,"57,299","$63,665",Home Delivery,6
+126,Dodge,Challenger R/T Scat Pack,2023,"61,500","$61,500",Home Delivery,7
+127,Toyota,4Runner SR5,2023,"40,299","$40,299",Not Deliverable,7
+128,Toyota,4Runner Limited,2023,"52,992","$52,992",Not Deliverable,7
+129,Nissan,Rogue Sport SL,2022,"34,167","$36,210",Home Delivery,7
+130,Nissan,Frontier SV,2023,"38,103","$39,620",Home Delivery,7
+131,Ford,F-250 Platinum,2022,131,131,Home Delivery,7
+132,Ford,F-150 XL,2022,"37,400","$37,400",Home Delivery,7
+133,Ford,F-150 XLT,2022,"59,960","$59,960",Home Delivery,7
+134,Ford,F-150 Lariat,2022,"67,140","$67,140",Home Delivery,7
+135,Ford,Escape Titanium,2022,"44,450","$42,450",Home Delivery,7
+136,Ford,F-150 Lariat,2022,"77,480","$77,480",Home Delivery,7
+137,Lincoln,Navigator Standard,2022,"82,155","$82,155",Home Delivery,7
+138,Lincoln,Navigator Standard,2022,"82,850","$82,850",Home Delivery,7
+139,RAM,1500 Big Horn,2022,139,139,Home Delivery,7
+140,Mercedes-Benz,S-Class S 580 4MATIC,2023,"130,495","$130,495",Home Delivery,7
+141,Mercedes-Benz,S-Class S 500 4MATIC,2023,"121,395","$121,395",Home Delivery,7
+142,Mercedes-Benz,S-Class S 580 4MATIC,2023,"148,605","$148,605",Home Delivery,7
+143,Ford,Mustang Mach 1,2023,"63,380","$63,380",Home Delivery,7
+144,Ford,Expedition Platinum,2022,144,144,Home Delivery,7
+145,Ford,Expedition Platinum,2022,"86,160","$86,160",Home Delivery,7
+146,Ford,Expedition Timberline,2022,146,146,Home Delivery,7
+147,Mercedes-Benz,AMG SL 63 Base,2022,"200,300","$200,300",Home Delivery,8
+148,Land,Rover Discovery P300 S R-Dynamic,2023,"74,390","$74,390",Home Delivery,8
+149,Land,Rover Discovery P300 S R-Dynamic,2023,"73,230","$73,230",Home Delivery,8
+150,Land,Rover Discovery P360 Metropolitan Edition,2023,"85,975","$85,975",Home Delivery,8
+151,Land,Rover Discovery P300 S R-Dynamic,2023,"66,580","$66,580",Home Delivery,8
+152,BMW,X3 xDrive30i,2023,"57,660","$57,660",Home Delivery,8
+153,BMW,X3 xDrive30i,2023,"56,960","$56,960",Home Delivery,8
+154,INFINITI,QX80 PREMIUM SELECT,2022,"74,358","$82,930",Home Delivery,8
+155,Volvo,XC90 Recharge Plug-In Hybrid T8 Plus 6-Seater,2023,"78,395","$78,395",Virtual Appointments,8
+156,Honda,Pilot Sport,2022,"41,770","$41,770",Home Delivery,8
+157,Mitsubishi,Eclipse Cross SEL,2023,"33,580","$33,580",Home Delivery,8
+158,Mitsubishi,Eclipse Cross LE,2023,"29,380","$29,380",Home Delivery,8
+159,Lincoln,Navigator Standard,2023,159,159,Home Delivery,8
+160,Dodge,Durango SXT,2022,"39,380","$39,380",Home Delivery,8
+161,Subaru,Impreza Premium,2023,"27,373","$27,373",Hot Car,8
+162,Toyota,4Runner TRD Sport,2023,"48,228","$48,228",Hot Car,8
+163,Subaru,Impreza Premium,2023,"26,815","$27,115",Home Delivery,8
+164,Subaru,Impreza Premium,2023,"24,880","$25,180",Hot Car,8
+165,Lincoln,Aviator Reserve AWD,2022,"75,120","$75,120",Home Delivery,8
+166,Ford,Expedition Max XLT,2022,"72,940","$72,940",Home Delivery,8
+167,Lincoln,Navigator Black Label,2022,"107,520","$107,520",Home Delivery,8
+168,Chevrolet,Tahoe Premier,2023,"69,490","$69,490",Home Delivery,9
+169,Lincoln,Navigator Black Label,2023,"114,955","$114,955",Hot Car,9
+170,Lincoln,Aviator Standard AWD,2022,"59,180","$59,180",Home Delivery,9
+171,Lincoln,Navigator Reserve,2022,"99,845","$99,845",Home Delivery,9
+172,Lincoln,Navigator Black Label,2022,"108,110","$108,110",Home Delivery,9
+173,Ford,F-150 Platinum,2022,"79,420","$79,420",Home Delivery,9
+174,Ford,F-250 Lariat,2022,"68,675","$68,675",Home Delivery,9
+175,Ford,F-250 XLT,2022,"60,925","$60,925",Home Delivery,9
+176,Lincoln,Navigator Reserve,2022,"95,635","$95,635",Home Delivery,9
+177,Ford,Explorer Platinum,2022,177,177,Home Delivery,9
+178,Ford,Transit-150 Base,2023,"62,005","$62,005",Home Delivery,9
+179,Nissan,Sentra SR,2022,"25,465","$25,465",Home Delivery,9
+180,Nissan,Rogue Sport SV,2022,"32,310","$32,310",Home Delivery,9
+181,Audi,Q7 45 Premium Plus,2023,"65,630","$65,630",Home Delivery,9
+182,Audi,Q7 55 Premium,2023,"70,625","$70,625",Home Delivery,9
+183,Toyota,4Runner TRD Off Road,2023,"47,604","$47,604",Home Delivery,9
+184,Toyota,4Runner TRD Pro,2023,"54,784","$54,784",Home Delivery,9
+185,Toyota,4Runner Limited,2023,"53,793","$53,793",Home Delivery,9
+186,Toyota,4Runner Limited,2023,"53,793","$53,793",Home Delivery,9
+187,Nissan,Titan XD Platinum Reserve,2023,"70,950","$70,950",Not Deliverable,9
+188,Nissan,Pathfinder SL,2023,188,188,Home Delivery,9
+189,Honda,Pilot EX-L 7-Passenger,2023,"43,545","$43,545",Home Delivery,10
+190,GMC,Sierra 2500 Denali,2023,190,190,Home Delivery,10
+191,Jeep,Grand Cherokee L Summit,2023,"76,550","$77,550",Home Delivery,10
+192,RAM,1500 Big Horn,2022,"46,990","$53,490",Home Delivery,10
+193,RAM,1500 Laramie,2022,"66,320","$69,820",Home Delivery,10
+194,Jeep,Gladiator Overland,2022,"69,234","$69,234",Home Delivery,10
+195,Audi,SQ8 4.0T quattro Premium Plus,2023,"103,865","$103,865",Home Delivery,10
+196,Audi,SQ8 4.0T quattro Premium Plus,2023,"125,015","$125,015",Home Delivery,10
+197,Audi,Q7 45 Premium,2023,"68,160","$68,160",Home Delivery,10
+198,Jeep,Grand Cherokee L Summit,2023,198,198,Home Delivery,10
+199,Mazda,CX-9 Touring Plus,2023,"43,020","$43,020",Home Delivery,10
+200,RAM,1500 Big Horn,2022,200,200,Home Delivery,10
+201,RAM,1500 Laramie,2022,201,201,Home Delivery,10
+202,Genesis,G70 3.3T,2023,"52,720","$52,720",Home Delivery,10
+203,Ford,Bronco Big Bend,2023,203,203,Not Deliverable,10
+204,Ford,F-250 Lariat,2022,"112,202","$112,202",Not Deliverable,10
+205,GMC,Sierra 1500 Pro,2023,205,205,Home Delivery,10
+206,GMC,Sierra 1500 Elevation,2022,206,206,Home Delivery,10
+207,Subaru,Impreza Premium,2023,"25,804","$27,390",Home Delivery,10
+208,Subaru,Outback Limited XT,2023,"38,772","$41,631",Home Delivery,10
+209,Subaru,Impreza Sport,2023,"27,719","$29,597",Home Delivery,10
+210,Jeep,Wrangler Unlimited Sahara,2022,210,210,Home Delivery,11
+211,Subaru,Impreza Premium,2023,"25,889","$27,522",Home Delivery,11
+212,Kia,Stinger GT2,2023,"51,247","$55,290",Home Delivery,11
+213,Dodge,Challenger R/T Scat Pack,2022,213,213,Not Deliverable,11
+214,Jeep,Grand Cherokee L Limited,2023,"56,385","$56,385",Not Deliverable,11
+215,RAM,1500 Laramie,2022,215,215,Not Deliverable,11
+216,Jeep,Grand Cherokee L Limited,2023,216,216,Not Deliverable,11
+217,Jeep,Cherokee Trailhawk,2022,"38,590","$38,590",Not Deliverable,11
+218,RAM,1500 Big Horn,2022,218,218,Not Deliverable,11
+219,Kia,K5 GT-Line,2023,"30,060","$30,060",Home Delivery,11
+220,GMC,Sierra 2500 Denali,2023,"90,580","$90,580",Home Delivery,11
+221,Jeep,Grand Cherokee L Overland,2023,221,221,Home Delivery,11
+222,Ford,F-250 Lariat,2022,"98,145","$98,145",Not Deliverable,11
+223,Toyota,4Runner SR5,2023,"44,061","$44,061",Not Deliverable,11
+224,Honda,Pilot Sport,2022,"41,770","$41,770",Home Delivery,11
+225,Volvo,XC60 B6 Ultimate Dark Theme,2023,225,225,Home Delivery,11
+226,Honda,Odyssey Sport,2023,"43,050","$43,050",Home Delivery,11
+227,Ford,F-150 Lariat,2022,"69,875","$71,375",Home Delivery,11
+228,Ford,F-250 Lariat,2022,"74,830","$75,970",Home Delivery,11
+229,RAM,1500 Big Horn,2022,229,229,Not Deliverable,11
+230,RAM,1500 Laramie,2022,"56,478","$63,535",Not Deliverable,11
+231,Kia,Sorento Hybrid SX Prestige,2023,"50,520","$45,520",Virtual Appointments,12
+232,Honda,CR-V EX,2022,"32,055","$32,055",Home Delivery,12
+233,GMC,Sierra 1500 Denali,2022,233,233,Not Deliverable,12
+234,Jeep,Gladiator Rubicon,2022,"60,708","$60,708",Home Delivery,12
+235,Jeep,Wrangler Unlimited Sport,2022,"45,807","$45,807",Home Delivery,12
+236,Toyota,4Runner SR5,2023,"40,557","$40,557",Not Deliverable,12
+237,Ford,Mustang Mach-E GT,2022,237,237,Home Delivery,12
+238,BMW,760 760i xDrive,2023,"129,545","$129,545",Home Delivery,12
+239,Nissan,Pathfinder Platinum,2023,"52,895","$52,895",Virtual Appointments,12
+240,Jeep,Wrangler Unlimited Sport,2022,"47,995","$49,490",Not Deliverable,12
+241,Ford,F-250 XLT,2022,"63,105","$63,105",Home Delivery,12
+242,Ford,Mustang Mach-E GT,2022,242,242,Home Delivery,12
+243,Ford,F-250 XL,2022,"54,890","$54,890",Home Delivery,12
+244,Ford,F-150 XLT,2022,244,244,Home Delivery,12
+245,Ford,F-150 Lariat,2023,"77,395","$77,395",Home Delivery,12
+246,Ford,F-350 XLT,2022,"67,675","$67,675",Home Delivery,12
+247,Ford,Explorer XLT,2022,"46,595","$46,595",Home Delivery,12
+248,Ford,F-150 XLT,2022,"57,405","$57,405",Home Delivery,12
+249,Ford,F-150 Lightning LARIAT,2022,249,249,Home Delivery,12
+250,Toyota,Tundra Hybrid Capstone,2023,"78,769","$78,769",Home Delivery,12
+251,Lincoln,Aviator Reserve AWD,2023,"74,010","$74,010",Not Deliverable,12
+252,Toyota,Tacoma SR5,2023,"45,681","$45,681",Home Delivery,13
+253,Dodge,Challenger SRT Hellcat,2023,"82,397","$82,397",Home Delivery,13
+254,Jaguar,XF P300 R-Dynamic SE,2022,"57,810","$57,810",Home Delivery,13
+255,Mazda,Mazda3 2.5 S Carbon Edition,2023,"29,740","$29,740",Home Delivery,13
+256,Mazda,Mazda3 FWD w/Premium Package,2022,"29,140","$29,140",Home Delivery,13
+257,Mazda,Mazda3 FWD w/Premium Package,2023,"30,215","$30,215",Home Delivery,13
+258,GMC,Sierra 3500 Denali,2023,"88,955","$88,955",Not Deliverable,13
+259,GMC,Sierra 3500 SLT,2023,259,259,Not Deliverable,13
+260,GMC,Sierra 2500 AT4,2023,"88,775","$88,775",Not Deliverable,13
+261,Lexus,RC F Track,2022,"106,930","$106,930",Home Delivery,13
+262,Lincoln,Aviator Black Label AWD,2023,"82,565","$82,565",Home Delivery,13
+263,GMC,Sierra 1500 Elevation,2022,"52,404","$52,404",Not Deliverable,13
+264,Jeep,Wrangler Unlimited Sport,2022,"39,178","$39,178",Not Deliverable,13
+265,Jeep,Wrangler Unlimited Sport,2022,265,265,Home Delivery,13
+266,Jeep,Wrangler Unlimited Sahara,2022,266,266,Home Delivery,13
+267,Mazda,CX-50 2.5 S Preferred Plus Package,2023,267,267,Home Delivery,13
+268,Mazda,Mazda3 FWD w/Select Package,2023,"24,482","$24,482",Home Delivery,13
+269,Mazda,Mazda3 FWD w/Preferred Package,2023,269,269,Home Delivery,13
+270,Mazda,CX-50 2.5 S Preferred Plus Package,2023,270,270,Home Delivery,13
+271,Nissan,Frontier PRO-4X,2023,"44,742","$44,742",Home Delivery,13
+272,Nissan,Frontier PRO-4X,2023,"42,811","$42,811",Home Delivery,13
+273,Chevrolet,Suburban Premier,2023,"80,860","$80,860",Not Deliverable,14
+274,Hyundai,Sonata SEL,2023,"27,827","$27,827",Home Delivery,14
+275,Dodge,Charger Scat Pack,2022,"69,055","$69,055",Not Deliverable,14
+276,RAM,1500 TRX,2022,"115,080","$115,080",Home Delivery,14
+277,Volkswagen,Taos 1.5T SE,2022,"30,150","$31,150",Not Deliverable,14
+278,Ford,Transit-250 ,2023,"50,205","$50,205",Home Delivery,14
+279,Jeep,Wrangler Unlimited Sahara,2022,"55,505","$55,505",Home Delivery,14
+280,GMC,Sierra 1500 Elevation,2023,"56,420","$57,170",Home Delivery,14
+281,Jeep,Wrangler Unlimited Sport,2022,"45,155","$45,155",Home Delivery,14
+282,Chevrolet,Colorado Z71,2022,"39,815","$39,815",Not Deliverable,14
+283,Ford,Maverick Lariat,2023,"37,425","$37,425",Hot Car,14
+284,Ford,Maverick Lariat,2023,"38,440","$38,440",Hot Car,14
+285,GMC,Sierra 3500 AT4,2023,"89,540","$89,540",Not Deliverable,14
+286,Honda,Pilot Sport,2022,286,286,Home Delivery,14
+287,Dodge,Challenger R/T,2022,287,287,Home Delivery,14
+288,Dodge,Challenger R/T,2022,288,288,Home Delivery,14
+289,Chevrolet,Silverado 1500 High Country,2022,"66,290","$66,290",Home Delivery,14
+290,Jeep,Grand Cherokee Overland,2023,"66,999","$66,999",Home Delivery,14
+291,GMC,Sierra 1500 AT4,2023,291,291,Home Delivery,14
+292,Toyota,Tundra Hybrid Limited,2023,"68,589","$66,839",Home Delivery,14
+293,Chevrolet,Silverado 1500 Custom,2022,"48,065","$48,065",Virtual Appointments,14
